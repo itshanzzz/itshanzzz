@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itshanzzz a.k.a Farhan Muyassar
 - 👀 I’m interested in Tech Industry
 - 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m open to collaborate
 - 📫 How to reach me https://www.linkedin.com/in/muyassar-farhan/
 
 <!---
