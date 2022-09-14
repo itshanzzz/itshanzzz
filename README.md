@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @itshanzzz a.k.a Farhan Muyassar
 - 👀 I’m interested in Tech Industry
-- 🌱 I’m currently learning Programming
-- 💞️ I’m open to collaborate
-- 📫 How to reach me https://www.linkedin.com/in/muyassar-farhan/
+- 🌱 I’m currently learn Programming
+- 💞️ I’m open to collaborate and opportunity
+- 📫 You to reach me https://www.linkedin.com/in/muyassar-farhan/
 
 <!---
 itshanzzz/itshanzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
