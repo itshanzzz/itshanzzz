@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech Industry
 - 🌱 I’m currently learn Programming
 - 💞️ I’m open to collaborate and opportunity
-- 📫 You to reach me https://www.linkedin.com/in/muyassar-farhan/
+- 📫 You can reach me at https://www.linkedin.com/in/muyassar-farhan/
 
 <!---
 itshanzzz/itshanzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
